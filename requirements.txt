@@ -1,0 +1,13 @@
+requests
+gunicorn
+flask
+bs4
+gensim
+git+https://github.com/APCLab/jieba-tw.git
+pandas
+selenium
+line-bot-sdk
+sklearn
+schedule
+speechrecognition
+pydub
