@@ -69,8 +69,8 @@ ATMList=["台灣、土地、合作金庫ATM",
               "凱基、星辰、台新ATM",
               "日盛、安泰、中國信託ATM"]
 
-line_bot_api = LineBotApi("IHs5ZsqeNsuZ3hDGhzxMIPbn4yXpIRnaAFNvINXQggVZ2WS6jOku8j5JjNr6tFlV6s37xYgeB9BhR/EAthcfaWix7hKGQKX+mp2Iiz95VLWH0A2EqGbtnZluOUo17xsURk4SL18oVWws6LGjMt1MDgdB04t89/1O/w1cDnyilFU=")
-handler = WebhookHandler('b192576c82181642498e8366e5817310')
+line_bot_api = LineBotApi("Kr0MqFFqWrpQjPZVsSlPwxWpPUl2FP6x2mu9wjfhaA2Z/M7Jl9QNlQEyC+caP8vTX6xqU2qPaFBb6xmaXmS3yaN0LERn2wXx5Nv5bLNADz2BUEZkwc5jgEXUK3xj6enUCO2aZGjHLYXJbJGQMC8MsgdB04t89/1O/w1cDnyilFU=")
+handler = WebhookHandler('00456b5ad1316c2a1fd6141a3e1b670c')
 
 NGWords=["、","。","，",",","?",".","!"," "," ",":","-",";",")","(","...","的",'1','2','3','4','5','6','7','8','9','0','．','/',', ','（','）','·',' · ',' ·',">","<","；",
                  "：",'|','！',"『","』","---","僅","供","必","是","也","@","【","】","\n"," "]
